@@ -5,31 +5,31 @@
 
 ### 💻 Programming Languages
 <div align="center">
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/Python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="Python"></a>
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="Cplusplus"></a>
+  <img src="https://img.shields.io/badge/Python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="Python">
+  <img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="Cplusplus">
 </div>
 
 ### Libraries & Frameworks
 <div align="center">
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=0768a8&labelColor=ffffff" alt="Pandas"></a>
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/Numpy-lightgray?style=for-the-badge&logo=Numpy&logoColor=white" alt="Numpy"></a>
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib"></a>
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/Seaborn-4B0082?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn"></a>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=0768a8&labelColor=ffffff" alt="Pandas">
+  <img src="https://img.shields.io/badge/Numpy-lightgray?style=for-the-badge&logo=Numpy&logoColor=white" alt="Numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4B0082?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn">
 </div>
 
 ### Tools & Platforms
 <div align="center">
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git"></a>
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://github.com/HirakBala" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter"></a>
-  <a href="https://github.com/HirakBala" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VSCode"></a>
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"></a> <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white" alt="IBM Cloud"></a>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img height="30" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VSCode">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white" alt="IBM Cloud">
 </div>
 
 ### Databases
 <div align="center">
-  <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sqlite" alt="SQL"></a>
-  <a href="https://github.com/HirakBala" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></a>
+  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sqlite" alt="SQL">
+  <img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL">
 </div>
 
 <h3>👀 My Projects</h3>
@@ -42,7 +42,7 @@
   <a href="https://github.com/HirakBala/India_kii_Hava" alt="AirQ Analysis">Air Quality Analysis Project</a>
 </div>
 
-<h3>📫 Reach Me On</h3>
+<h3>📧 Reach Me On</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" height="150" alt="Funny Gif">
 </div>
