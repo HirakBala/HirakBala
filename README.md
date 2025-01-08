@@ -35,7 +35,7 @@
 <h3>👀 My Projects</h3>
 <div align="center">
   <div align="center">
-  <img src="https://bigpresence.com/wp-content/uploads/2017/08/saltbae-cropped.gif" alt="Salt Bae GIF" width="600">
+  <img src="https://bigpresence.com/wp-content/uploads/2017/08/saltbae-cropped.gif" alt="Salt Bae GIF" width="200">
   </div>
   <a href="https://github.com/HirakBala/Movies_kii_Craze" alt="Movie Analysis">Movie Analysis Project</a>
   <br>
