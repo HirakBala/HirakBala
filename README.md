@@ -32,7 +32,7 @@
   <a href="https://github.com/HirakBala" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></a>
 </div>
 
-<h3>My Projects</h3>
+<h3>👀 My Projects</h3>
 <div align="center">
   <div align="center">
   <img src="https://bigpresence.com/wp-content/uploads/2017/08/saltbae-cropped.gif" alt="Salt Bae GIF" width="600">
@@ -42,4 +42,15 @@
   <a href="https://github.com/HirakBala/India_kii_Hava" alt="AirQ Analysis">Air Quality Analysis Project</a>
 </div>
 
-
+<h3>📫 Reach Me On</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" height="150" alt="Funny Gif">
+</div>
+<div align="center" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/hirak-bala" target="_blank" style="margin-right: 15px;">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="LinkedIn Profile">
+  </a>
+  <a href="mailto:hirakbala07@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="Gmail">
+  </a>
+</div>
