@@ -3,7 +3,7 @@
   <h2>🎉 Welcome to my GitHub profile! 🎉</h2>
 </div>
 
-### Programming Languages
+### 💻 Programming Languages
 <div align="center">
   <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/Python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="Python"></a>
   <a href="https://github.com/HirakBala"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="Cplusplus"></a>
