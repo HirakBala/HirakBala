@@ -50,7 +50,7 @@
 </div>
 <div align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/hirak-bala" style="display: inline-block; margin-right: 15px;">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="LinkedIn Profile">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px">
   </a>
   <a href="mailto:hirakbala07@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="Gmail">
