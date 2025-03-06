@@ -48,9 +48,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" height="150" alt="Funny Gif">
 </div>
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/hirak-bala" style="display: inline-block; margin-right: 15px;">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30px" alt="LinkedIn">
   </a>
   <a href="mailto:hirakbala07@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="Gmail">
