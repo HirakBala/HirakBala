@@ -48,7 +48,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" height="150" alt="Funny Gif">
 </div>
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/hirak-bala" style="display: inline-block; margin-right: 15px;">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px">
   </a>
