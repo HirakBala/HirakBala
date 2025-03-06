@@ -39,6 +39,8 @@
   </div>
   <a href="https://github.com/HirakBala/Movies_kii_Craze" alt="Movie Analysis">Movie Analysis Project</a>
   <br>
+  <a href="https://github.com/HirakBala/SQL_Kaa_House" alt="Sql Warehouse And Analytics"> Data Warehouse And Analytics Project </a>
+  <br>
   <a href="https://github.com/HirakBala/India_kii_Hava" alt="AirQ Analysis">Air Quality Analysis Project</a>
 </div>
 
