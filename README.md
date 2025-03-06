@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" height="150" alt="Funny Gif">
 </div>
 <div align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/hirak-bala" target="_blank" style="margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/hirak-bala">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="LinkedIn Profile">
   </a>
   <a href="mailto:hirakbala07@gmail.com">
